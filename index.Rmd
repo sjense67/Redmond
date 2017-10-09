@@ -1,5 +1,6 @@
 ---
-title: "Hi Dr. Redmond"
+title: "Greeting"
 output: html_document
 ---
 
+Hi Dr. Redmond
